@@ -1,5 +1,9 @@
 {
   "name": "Anthro Party Argentina!",
+  "bluesky": {
+    "did": "did:plc:m5x5wnd466vcajmsbvl6vgrd",
+    "handle": "antropartyarg.bsky.social"
+  },
   "events": [
     {
       "id": "anthro-party-argentina-2026",
